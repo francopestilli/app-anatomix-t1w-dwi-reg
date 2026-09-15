@@ -1,0 +1,10 @@
+{
+  "t1": "./input/t1/t1.nii.gz",
+  "dwi": "./input/dwi/dwi.nii.gz",
+  "bvals": "./input/dwi/dwi.bvals",
+  "bvecs": "./input/dwi/dwi.bvecs",
+  "b0_max_bval": 50,
+  "transform": "affine,deformable",
+  "save_inverse": true,
+  "device": "auto"
+}
